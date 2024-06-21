@@ -56,4 +56,6 @@ require("lazy").setup({
 		end,
 	},
 
+    "tanvirtin/monokai.nvim",
+
 })
